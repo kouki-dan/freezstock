@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13938696233",
+    "project_id": "freezstocker",
+    "storage_bucket": "freezstocker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13938696233:android:4ad940e23437c4c93ffc38",
+        "android_client_info": {
+          "package_name": "com.koukilab.freezstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13938696233-nta8688gr68sse4jh5alnb2cko2js99c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL8dEHZ35IZBpTnMwlue3pEZ_0sEEMYLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13938696233-nta8688gr68sse4jh5alnb2cko2js99c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
